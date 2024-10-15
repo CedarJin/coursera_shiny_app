@@ -1,0 +1,12 @@
+name: My_course_app
+title: My_course_app
+username: cedarjys001
+account: cedarjys001
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13017957
+bundleId: 9223776
+url: https://cedarjys001.shinyapps.io/My_course_app/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
