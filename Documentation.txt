@@ -1,0 +1,16 @@
+This is a documentation for this shiny app.
+This shiny app allows the users to explore the linear relationship using plots generated in the shiny app.
+On the sidebar, the users can input the title of their analysis, which would show up on the first row of the main panel.
+Follwing the title of the analysis, the users can select if they want to see the data structure and if they want the y variable to be log tranformed.
+
+The users can define the number of observations they want to view on the mian panel as well on the sidebar.
+
+A help text indicates that the users do not need to define the y variable since the y variable is set to miles per gallon as default.
+
+The users can select the x variable that they want to display on the main panel.
+
+On the main panel, they can find the plot showing a fitted linear regression line and all the original data points.
+
+All changes will be valid only when the users click the "update view" botton.
+
+ 
